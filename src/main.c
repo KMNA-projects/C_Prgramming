@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int result = adding(10, 20)
+    int result = add(10, 20)
 
     printf("10 + 20 = %d\n", result);
 
